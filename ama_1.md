@@ -1,3 +1,5 @@
+## AMA - 29 Aug
+
 - **What is a FULL OUTER JOIN?**  
   A FULL OUTER JOIN returns all matching rows from both tables. It also includes unmatched rows and fills missing values with NULL.
 
